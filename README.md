@@ -1,6 +1,6 @@
 Hey, I'm Maryam!<br>
 🎓 Second-year Computer Science undergraduate at IIT, affiliated with the University of Westminster, UK.<br>
-🌱 Passionate about full-stack and mobile development, I enjoy working on cutting-edge projects. Currently, I'm honing my skills in Java, Python, C#, UI/UX, MERN, and Flutter.<br>
+🌱 Passionate about full-stack and mobile development, I enjoy working on cutting-edge projects. Currently, I'm honing my skills in Java, Python, C#, React, and Flutter.<br>
 💡 I'm always eager to explore new technologies, grow my tech skills, and take on diverse projects.<br>
 🚀 Quick to learn and adapt, I thrive on challenges and love staying up-to-date with the latest advancements in tech.<br>
 ✍️ In my free time, I enjoy watching tech videos and reading blogs to stay informed in this ever-evolving field.<br>
